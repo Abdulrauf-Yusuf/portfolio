@@ -10,16 +10,24 @@ export function AboutMe({ social = false, link = true }) {
       </div>
       <div className="w-full lg:w-1/2">
         <h1 className="text-3xl font-bold tracking-tight">
-          I am a front-end developer based in Sydney. Has Mechanical Engineering
+          I am a front-end developer based in Africa. Has Actuarial Science
           background.
         </h1>
         <p className="text-gray-300 leading-relaxed">
-          I am a front-end developer based in Sydney looking for exciting
-          opportunities. Has Mechanical Engineering background. Likes to focus
-          on accessibility when developing. Passionate and curious about solving
-          problems. Currently, I’m exploring Reactjs, Webflow and a bit of
-          Designing. While I am not programming, I enjoy playing football,
-          photography and playing Valorant. Learning more to improve skill
+          Hi, I’m Abdulrauf Youseph — a curious and creative Frontend Developer
+          with a strong foundation in JavaScript, React, and Next.js. I build
+          clean, responsive, and user-focused web applications that solve
+          real-world problems. With a background in Actuarial Science, I
+          approach development with a data-driven mindset and a deep
+          appreciation for structure, logic, and impact. I’ve built projects
+          like BetaHouse, a real estate app featuring dynamic listings, search
+          filters, and admin tools—all styled with Tailwind CSS and powered by
+          real APIs. Beyond the code, I’m a big fan of Ewa Aganyin and soft
+          bread—a combo that reminds me to keep things simple, satisfying, and
+          full of flavor. Just like the experiences I strive to create on the
+          web. Let’s build something awesome together. I’m open to freelance
+          work, internships, and full-time roles on teams that value clean code
+          and creative thinking.
         </p>
         {link && (
           <span className="inline-block mt-5">
