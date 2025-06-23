@@ -10,7 +10,7 @@ export default function Hero() {
           Hi, I am <br /> Abdulrauf Youseph.
         </h1>
         <p className="text-lg text-gray-300">
-          A Sydney-based front-end developer passionate about building
+          An Africa-based front-end developer passionate about building
           accessible and user-friendly websites.
         </p>
 

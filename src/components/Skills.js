@@ -45,9 +45,10 @@ export default function Skills() {
       </div>
       <div className="w-full lg:w-1/2 space-y-6">
         <p className="text-gray-300 leading-relaxed">
-          I am always looking to add more skills.Morbi egestas neque eu blandit
-          fermentum. Nulla ac lobortis ligula. Pellentesque ac ex at purus
-          faucibus tristique ut et dolor.
+          I’m always eager to learn and expand my skill set. Whether it&apos;s
+          mastering new technologies or refining my current abilities, I thrive
+          on continuous growth. I believe every challenge is an opportunity to
+          level up and deliver better, smarter solutions.
         </p>
         <ul>
           {skillData.map((skill) => (
